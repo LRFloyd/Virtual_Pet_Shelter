@@ -6,7 +6,7 @@ namespace Virtual_Pet_Shelter
 {
     class VirtualPet
     {
-        //invisable fields 
+        //invisible fields 
 
         //properties
 
